@@ -142,7 +142,7 @@ function App() {
                 বাংলাদেশের শিক্ষার্থী, ফ্রিল্যান্সার এবং কন্টেন্ট ক্রিয়েটরদের জন্য বিশেষ Canva EDU অফার - যা আপনার ডিজাইন জার্নি সম্পূর্ণ বদলে দেবে।
               </p>
               <a 
-                href="https://wa.me/+8801781-272345?text=আমি%20Canva%20EDU%20অ্যাকাউন্ট%20কিনতে%20চাই" 
+                href="https://wa.me/+8801781272345?text=আমি%20Canva%20EDU%20অ্যাকাউন্ট%20কিনতে%20চাই" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full inline-flex items-center transition duration-300"
@@ -315,7 +315,7 @@ function App() {
           
           <div className="text-center">
             <a 
-              href="https://wa.me/+8801781-272345?text=আমি%20Canva%20EDU%20অ্যাকাউন্ট%20কিনতে%20চাই" 
+              href="https://wa.me/+8801781272345?text=আমি%20Canva%20EDU%20অ্যাকাউন্ট%20কিনতে%20চাই" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full inline-flex items-center transition duration-300"
@@ -389,7 +389,7 @@ function App() {
           </p>
           <div className="flex flex-col items-center gap-4">
             <a 
-              href="https://wa.me/+8801781-272345?text=আমি%20Canva%20EDU%20অ্যাকাউন্ট%20কিনতে%20চাই" 
+              href="https://wa.me/+8801781272345?text=আমি%20Canva%20EDU%20অ্যাকাউন্ট%20কিনতে%20চাই" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-10 rounded-full inline-flex items-center text-lg transition duration-300"
